@@ -19,4 +19,4 @@ with a label between 10 classes:
 * Bag
 * Ankle boot
 
-![My Image]("C:\Users\flavi\OneDrive\Desktop\UNIPD DATA SCIENCE\Machine learning\consegna ML project\ex_fashion_mnist.png")
+![My Image]("C:\Users\flavi\OneDrive\Desktop\UNIPD DATA SCIENCE\Machine learning\consegna ML project\ex_fashion_mnist.jpeg")
