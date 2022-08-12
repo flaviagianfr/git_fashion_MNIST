@@ -19,11 +19,4 @@ with a label between 10 classes:
 * Bag
 * Ankle boot
 
-
-from matplotlib import image
-for i in range(0,5):
-  image = X_train_df.iloc[i]
-  image = np.array(image)
-  image = image.reshape((28,28))
-  plt.figure()
-  plt.imshow(image, cmap="gray")
+![My Image]("C:\Users\flavi\OneDrive\Desktop\UNIPD DATA SCIENCE\Machine learning\consegna ML project\ex_fashion_mnist.png")
