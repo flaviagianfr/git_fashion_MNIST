@@ -19,4 +19,4 @@ with a label between 10 classes:
 * Bag
 * Ankle boot
 
-![My Image]("C:\Users\flavi\OneDrive\Desktop\UNIPD DATA SCIENCE\Machine learning\consegna ML project\ex_fashion_mnist.jpeg")
+![ex_fashion_mnist](https://user-images.githubusercontent.com/81876723/184404967-7efcdb83-58df-4f7a-8be8-12e1419b1b0a.jpeg)
