@@ -1,4 +1,4 @@
-# git_fashion_MNIST
+# Fashion MNIST
 
 The project presented is part of the field of artificial intelligence and in particular deals with the problem of image classification. This process uses the  information obtained from the pixel analysis, which represent training examples for the algorithms used. After an initial check of the dataset, the data were transformed into an understandable format, suitable for the needs of the work. Then, different automatic learning models were applied with the aim of identifying the one with the greater prevision accuracy.
 The images used in this project represent clothing sold on the Zalando e-commerce. The growth of the phenomenon of online shopping has led to an exponential increase
@@ -19,4 +19,6 @@ with a label between 10 classes:
 * Bag
 * Ankle boot
 
+
+#### Example of images
 ![ex_fashion_mnist](https://user-images.githubusercontent.com/81876723/184404967-7efcdb83-58df-4f7a-8be8-12e1419b1b0a.jpeg)
